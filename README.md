@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Nair</h1>
 <h3 align="center">Pursuing to be a full stack Web/App Developer.</h3>
-
-
+<img align="right" alt="Coding" width="400" src="[https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0V_cHyOOWA4K-vobgC7Hno&ust=1756310111487000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC565frqI8DFQAAAAAdAAAAABAL)">
 
 - 🔭 I’m currently working on **Python and Machine learning algorithms.**
 
